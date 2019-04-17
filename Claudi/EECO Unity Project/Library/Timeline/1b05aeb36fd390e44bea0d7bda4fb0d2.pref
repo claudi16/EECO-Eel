@@ -19,7 +19,7 @@ MonoBehaviour:
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 12.716666666666667
+  windowTime: 2.0166666666666666
   verticalScroll: 0
   m_Keys:
   - {fileID: 114115558426692872, guid: 1b05aeb36fd390e44bea0d7bda4fb0d2, type: 2}
@@ -43,7 +43,7 @@ MonoBehaviour:
   - collapsed: 0
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
-  - collapsed: 0
+  - collapsed: 1
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
   - collapsed: 0
