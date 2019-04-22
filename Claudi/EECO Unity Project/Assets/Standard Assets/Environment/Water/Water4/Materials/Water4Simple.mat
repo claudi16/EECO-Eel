@@ -60,15 +60,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _FresnelScale: 0.57
+    - _FresnelScale: 1.84
     - _GerstnerIntensity: 1
     - _HeightDisplacement: 2.3370318
     - _NormalsDisplacement: 72.72728
-    - _Shininess: 2
+    - _Shininess: 45
     m_Colors:
     - _AnimationDirection: {r: -5.33, g: 82.3, b: -1, a: 1}
     - _AnimationTiling: {r: 0.4, g: 0.39099997, b: 0.56, a: 0.7}
-    - _BaseColor: {r: 0.5090777, g: 0.6771468, b: 0.6784314, a: 0.69803923}
+    - _BaseColor: {r: 0.1401743, g: 0.3742411, b: 0.4716981, a: 0.69803923}
     - _BumpDirection: {r: 1, g: 87.91, b: 48.4, a: 13.9}
     - _BumpTiling: {r: 0.04, g: 0.04, b: 0.04, a: 0.08}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -84,7 +84,7 @@ Material:
     - _InvFadeParemeter: {r: 0.27508128, g: 0.08562102, b: 0.09414239, a: 0.48031002}
     - _ReflectionColor: {r: 0.85711104, g: 0.9716981, b: 0.9178322, a: 1}
     - _RefractionFog: {r: 0.8681778, g: 0.8797176, b: 0.8880597, a: 1}
-    - _SpecularColor: {r: 0.53333336, g: 0.87437767, b: 1, a: 1}
+    - _SpecularColor: {r: 0.5333333, g: 0.87437767, b: 1, a: 1}
     - _WorldLightDir: {r: 0.013992369, g: -0.17359081, b: -0.9847186, a: 0}
 --- !u!1002 &2100001
 EditorExtensionImpl:
