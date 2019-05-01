@@ -7515,7 +7515,7 @@ MonoBehaviour:
   m_Muted: 0
   m_CustomPlayableFullTypename: 
   m_AnimClip: {fileID: 0}
-  m_Parent: {fileID: 11400000}
+  m_Parent: {fileID: 114617222885027916}
   m_Children: []
   m_Clips:
   - m_Start: 10.6
@@ -7913,14 +7913,14 @@ MonoBehaviour:
   m_Name: MovieRecorderSettings
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 2
+  take: 3
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
       m_Root: 0
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
-    m_FileName: Eel_FirstPass
+    m_FileName: Eel_SecondPass
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
