@@ -699,7 +699,17 @@ ModelImporter:
     13700090: EECO_Fin_Rig:R_Arm_Piece4_Geo
     13700092: EECO_Fin_Rig:R_Arm_Piece5_Geo
     13700094: EECO_Fin_Rig:Solar_Arm_Geo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EECO_Fin_Rig_Glass
+    second: {fileID: 2100000, guid: 1cb6017a4a8032741a93f006fe14e2c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 7ffe724e35862d840a92bf661f758c3e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
